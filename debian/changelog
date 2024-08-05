@@ -72,3 +72,4 @@ phpredis (1.0.0-1) unstable; urgency=low
   * Initial release.
 
  -- Simon Effenberg <se@plista.com>  Wed, 22 Sep 2010 16:04:53 +0200
+phpredis (2.0.8-2) unstable; urgency=low
